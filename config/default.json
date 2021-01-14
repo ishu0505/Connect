@@ -1,0 +1,6 @@
+{
+    "mongoURI": "mongodb+srv://ishu0505:ishu0505@connect.j8vck.mongodb.net/<dbname>?retryWrites=true&w=majority",
+    "jwtSecret": "mysecrettoken",
+    "githubClientId": "0105573dac58d805d980",
+    "githubSecret": "6afe09cb66f9992d9d5ea21c206eeeab361bc4e7"
+}
